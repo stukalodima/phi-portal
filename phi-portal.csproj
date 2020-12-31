@@ -145,6 +145,7 @@
     <Content Include="zvit\Audit_2019_PHI.pdf" />
     <Content Include="zvit\FinZvit_2019_PHI.pdf" />
     <Content Include="zvit\Zvit_upravlinnya_2019_PHI.pdf" />
+    <None Include="Properties\PublishProfiles\phi-portal - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
