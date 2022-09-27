@@ -174,11 +174,17 @@
     <Content Include="Views\Home\ZvitUpr.cshtml" />
     <Content Include="Views\Home\FinZvit.cshtml" />
     <Content Include="Views\Home\ZvitUpr2020.cshtml" />
+    <Content Include="Views\Home\ZvitUpr2021.cshtml" />
     <Content Include="zvit\Audit_2020_PHI.PDF" />
     <Content Include="zvit\FinZvit_2020_PHI.pdf" />
     <Content Include="zvit\Zvit_upravlinnya_2020_PHI.pdf" />
+    <Content Include="zvit\Audit_2021_PHI.PDF" />
+    <Content Include="zvit\FinZvit_2021_PHI.pdf" />
+    <Content Include="zvit\Zvit_upravlinnya_2021_PHI.pdf" />
     <Content Include="Views\Home\ZvitAudit2020.cshtml" />
+    <Content Include="Views\Home\ZvitAudit2021.cshtml" />
     <Content Include="Views\Home\FinZvit2020.cshtml" />
+    <Content Include="Views\Home\FinZvit2021.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
