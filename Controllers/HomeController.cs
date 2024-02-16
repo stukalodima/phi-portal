@@ -64,5 +64,20 @@ namespace phi_portal.Controllers
         {
             return View();
         }
+
+        public ActionResult ZvitAudit2022()
+        {
+            return View();
+        }
+
+        public ActionResult ZvitUpr2022()
+        {
+            return View();
+        }
+
+        public ActionResult FinZvit2022()
+        {
+            return View();
+        }
     }
 }
